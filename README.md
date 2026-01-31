@@ -54,8 +54,8 @@ Feature importance analysis shows that variables such as passenger sex, ticket c
 
 ## Project Structure
 
-
-titanic-survival-decision-tree/
+titanic-survival-decision-tree
+/
 │
 ├── Data/
 │ └── titanic_data.csv
