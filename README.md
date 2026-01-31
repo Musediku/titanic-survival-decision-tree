@@ -54,15 +54,16 @@ Feature importance analysis shows that variables such as passenger sex, ticket c
 
 ## Project Structure
 
-titanic-survival-decision-tree
-/
+```
+titanic-survival-decision-tree/
 │
 ├── Data/
 │ └── titanic_data.csv
 │
 ├── titanic_survival_decision_tree.ipynb
 ├── README.md
-└── .gitignore
+└── .gitignore/
+```
 
 ## Key Learnings
 - Building and tuning decision tree models
